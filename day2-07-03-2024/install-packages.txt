@@ -1,0 +1,7 @@
+Installed packages names
+
+git bash - https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe
+putty - https://putty.en.softonic.com/
+Notepad ++ - https://notepad.plus/download/
+Mobaxterm - https://download.mobatek.net/2362023122033030/MobaXterm_Installer_v23.6.zip
+Vs code - https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
